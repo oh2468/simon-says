@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# my todo list
+TODO.txt
+
+# local high score file
+high_scores.txt
+
+# development files
+dev_files/
